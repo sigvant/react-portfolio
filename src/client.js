@@ -1,6 +1,6 @@
-import sanityClient from '@sanity/client'
+import sanityClient from "@sanity/client";
 
 export default sanityClient({
-    projectId:'9phqcyag',
-    dataset:'production'
-})
+  projectId: "9phqcyag",
+  dataset: "production",
+});
